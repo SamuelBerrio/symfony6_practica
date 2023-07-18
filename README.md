@@ -1,7 +1,6 @@
 # Proyecto Symfony 6 (Web de Posts)
 
-![Logo del Proyecto](https://miro.medium.com/v2/resize:fit:563/1*8nEZwglRtHPy3oDAANYPqA.png){:width="200px"}
-
+![Logo del Proyecto](https://symfony.com/images/opengraph/symfony.png)
 ## Descripción
 
 El Proyecto Nombre del Proyecto es una aplicación web desarrollada utilizando el potente y versátil framework Symfony 6. Esta iniciativa tiene como objetivo principal practicar y aprender a fondo el uso de Symfony 6, así como familiarizarse con las mejores prácticas y herramientas utilizadas en el desarrollo de aplicaciones web modernas.
