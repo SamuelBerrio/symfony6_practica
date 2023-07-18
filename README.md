@@ -1,6 +1,6 @@
 # Proyecto Symfony 6 (Web de Posts)
 
-![Logo del Proyecto](https://miro.medium.com/v2/resize:fit:563/1*8nEZwglRtHPy3oDAANYPqA.png)
+![Logo del Proyecto](https://miro.medium.com/v2/resize:fit:563/1*8nEZwglRtHPy3oDAANYPqA.png){:width="200px"}
 
 ## Descripción
 
